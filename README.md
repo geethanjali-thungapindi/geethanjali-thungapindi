@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Geethanjali Thungapindi!  
 
-<!--
-**geethanjali-thungapindi/geethanjali-thungapindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about **technology, web development, and UI/UX design**. Always eager to learn and build innovative projects that make an impact!  
 
-Here are some ideas to get you started:
+## 🚀 What I Do  
+- 🌐 **Web Development** (HTML, CSS, JavaScript)  
+- 🎨 **UI/UX Design**  
+- 📊 **Project Management**  
+- 🏫 **Academic & Internship Projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Projects  
+- 📌 **College Website Development**  
+- 📌 **Internship Page Redesign**  
+- 📌 **Personal Portfolio & Resume**  
+
+## 📚 Technologies & Tools  
+- **Frontend:** HTML, CSS, JavaScript   
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+## 📫 Connect with Me  
+- 🔗 **GitHub:** [geethanjali-thungapindi](https://github.com/geethanjali-thungapindi)  
+- ✉️ **Email:** [geeth407762@gmail.com]  
+
+Let's collaborate and create something amazing! 🚀✨
